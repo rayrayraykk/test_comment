@@ -25,7 +25,7 @@ jobs:
       if: github.event_name == 'pull_request_target'
       uses: peter-evans/create-or-update-comment@v1
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PAT }}
         issue-number: ${{ github.event.pull_request.number }}
         body: |
           ## Nice to meet you

@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "qbc2016",
+      "name": "qbc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22984042?v=4",
+      "profile": "https://github.com/qbc2016",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "test_comment",
+  "projectOwner": "rayrayraykk"
+}
